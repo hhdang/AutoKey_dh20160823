@@ -1,0 +1,9 @@
+E:\downloads\AutoKey\AutoKey\obj\Debug\AutoKey.exe
+E:\downloads\AutoKey\AutoKey\obj\Debug\AutoKey.pdb
+E:\downloads\AutoKey\AutoKey\bin\Debug\AutoKey.exe.config
+E:\downloads\AutoKey\AutoKey\bin\Debug\AutoKey.exe
+E:\downloads\AutoKey\AutoKey\bin\Debug\AutoKey.pdb
+E:\downloads\AutoKey\AutoKey\obj\Debug\AutoKey.csprojResolveAssemblyReference.cache
+E:\downloads\AutoKey\AutoKey\obj\Debug\WindowsApplication1.AutoKey.resources
+E:\downloads\AutoKey\AutoKey\obj\Debug\AutoKey.Properties.Resources.resources
+E:\downloads\AutoKey\AutoKey\obj\Debug\AutoKey.csproj.GenerateResource.Cache
